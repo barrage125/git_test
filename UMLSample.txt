@@ -19,7 +19,7 @@ note right of (Use)
 end note
 
 
-note "This note is connected\nto several objects." as N2
+note "This note is connected\nto several different objects." as N2
 (Start) .. N2
 N2 .. (Use)
 @enduml
